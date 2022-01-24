@@ -1,2 +1,2 @@
-# Raja-Mantri-Chor-Sipahi-GAME
+# Raja-Mantri-Chor-Sipahi
 My first somewhat major project ,In this program you can play the old school raja mantri chor sipahi game with 4 users.
